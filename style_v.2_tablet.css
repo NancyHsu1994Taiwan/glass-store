@@ -1,0 +1,96 @@
+@media(max-width:768px){
+    .container{
+        max-width: 89%;
+    }
+
+    .slogan{
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .title{
+        font-size: 48px;
+        line-height: 72px; 
+    }
+    .nav{
+        padding: 30px 39px;
+        
+    }
+
+    .menu a{
+        margin: 0 10px;
+    }
+
+    /* .banner-content{
+        margin-right: 38.5px;
+    } */
+
+    .slogan{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .subTitle{
+        font-size: 32px;
+        line-height: 24px;
+        padding: 40px 0 32px 0;
+    }
+    .intro{
+        padding: 0 0 24px 0;
+    }
+    .benefit{
+        padding: 0 37.5px;
+    }
+
+    .benefit-item{
+        margin-bottom: 32px;
+    }
+    .classics-content:nth-child(2){
+        /* display: flex;
+        align-items: center; */
+        flex-direction: row;
+    
+    }
+    .subTitle-classics{
+        font-size: 28px;
+    }
+    .classics-content {
+        margin-bottom: 8px;
+    }
+    .classics-bullet{
+        width: 36px;
+    }
+
+    .feat-content{
+        margin-bottom: 56px;
+    }
+
+    /* recommand */
+    .recommand-list{
+        flex-wrap: wrap;
+        width: 47%;
+        margin-bottom: 32px;
+    }
+
+    /* footer */
+    .footer-container{
+        max-width: 89%;
+    }
+
+    .nav-footer{
+        margin-bottom: 18px;
+    }
+    .menu-footer{
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .menu-footer a{
+        margin-right: 40px;
+    }
+    .social-media img{
+       width: 24px; 
+       margin-left: 24px;
+    }
+
+}
+
